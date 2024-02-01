@@ -2,9 +2,11 @@
 
 A dart package to generate audio wave data on the fly.
 
+** Fork of [pathandthat's wave-generator project](https://github.com/patchandthat/wave-generator).
+
 ## Usage
 
-To use this plugin, add `wave_generator` as a [dependency in your pubspec.yaml file](https://flutter.io/platform-plugins/).
+tbd
 
 ### Example
 
@@ -46,5 +48,5 @@ Or string together a sequence of Notes
 
 ### Features
 
-* Sin, Square, Triangle waves
-* 8 Bit depth
+* Sine wave generation
+* 8, 16, 32bitdepth single tone frequency .wav generation
