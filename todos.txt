@@ -1,0 +1,3 @@
+todos:
+- restructure multinotes implementation
+- add stereo functionality
